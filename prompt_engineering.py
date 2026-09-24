@@ -17,7 +17,7 @@ def mock_api_response():
         "content": [
             {
                 "text": "Your processed output token text here"
-            }
+            },
         ],
         "usage": {
             "input_tokens": 45,
